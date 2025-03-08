@@ -16,6 +16,7 @@ Sales Analytics:
 Throughout this project, I gained proficiency in technical skills by performing following steps:
 
 ✅ETL (Extract, Transform, Load)
+
 ✅Cleaning data and using VLOOKUP, XLOOKUP to combine tables
 ✅Basic business math and stats such as Mean, Median, Mode, Variance, SD, and Correlation
 ✅Power Query
