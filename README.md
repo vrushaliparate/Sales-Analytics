@@ -1,4 +1,4 @@
-# Sales-Analytics
+# Sales and Finance Analytics Project
 
 Excel project about Sales & Finance Analytics for AtiQ Hardware.
 
